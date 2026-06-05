@@ -1,4 +1,4 @@
-# SARAN SENTHILKUMAR / README.md (You can delete this line)
+# SARAN SENTHILKUMAR
 
 ## 💫 About Me:
 
@@ -31,12 +31,4 @@ I enjoy building clean, responsive, and user-friendly web applications. I am alw
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-## 📊 GitHub Stats:
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME_HERE&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
